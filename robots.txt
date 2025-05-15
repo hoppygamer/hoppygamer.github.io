@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hobe.komaru-yml.xyz/sitemap.xml
