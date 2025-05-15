@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hobe.hoppygamer.dpdns.org/sitemap.xml
+Sitemap: https://hobe.hobegamer.dpdns.org/sitemap.xml
