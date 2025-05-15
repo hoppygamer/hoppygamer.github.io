@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hobe.komaru-yml.xyz/sitemap.xml
+Sitemap: https://hobe.hoppygamer.dpdns.org/sitemap.xml
